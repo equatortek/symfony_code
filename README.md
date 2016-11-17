@@ -1,2 +1,2 @@
-# symfony_code
-Sample Symfony Code
+
+Sample Symfony Project Code
